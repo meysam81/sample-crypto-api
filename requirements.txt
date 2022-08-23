@@ -1,0 +1,5 @@
+aiohttp~=3.8.1
+aioredis~=2.0.1
+fastapi~=0.78.0
+pydantic~=1.9.1
+uvicorn~=0.18.2
